@@ -1,7 +1,7 @@
 # AiToolBars.js
 To provide users with Artificially Intelligent tools to assist with idea development
 
-// frontend/src/components/AIToolBars.js
+// frontend/src/components/AIToolBars.JSON.stringify()
 
 import React, { UseState } from 'react';
 import axios from 'axios';
